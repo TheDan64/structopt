@@ -40,7 +40,7 @@ You have to change `foo_raw = "bar", baz_raw = "foo"` by `raw(foo = "bar", baz =
 ## New features
 
 * Add `parse(from_occurrences)` parser by [@SergioBenitez](https://github.com/SergioBenitez)
-* Support 1-uple enum variant as subcommand by [@TeXitoi](https://github.com/TeXitoi)
+* Support 1-tuple enum variant as subcommand by [@TeXitoi](https://github.com/TeXitoi)
 * structopt-derive crate is now an implementation detail, structopt reexport the custom derive macro by [@TeXitoi](https://github.com/TeXitoi)
 * Add the `StructOpt::from_iter` method by [@Kerollmops](https://github.com/Kerollmops)
 
